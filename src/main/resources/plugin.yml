@@ -1,0 +1,13 @@
+name: ololPermissions
+version: 1.0
+main: pl.ololjvNek.permissions.Main
+author: ololjvNek
+
+commands:
+  perm:
+    aliases:
+      - pex
+      - permission
+      - permissions
+    description: The main command of ololPermissions
+    usage: Type /perm for list of commands

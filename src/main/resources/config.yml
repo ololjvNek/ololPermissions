@@ -1,0 +1,8 @@
+permissions:
+  groups:
+    default:
+      permissions:
+        - 'default.permission'
+users:
+options:
+  defaultGroupName: 'default'
